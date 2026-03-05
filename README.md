@@ -1,4 +1,5 @@
 # GeniusMusic Bot — A Telegram bot for searching and downloading music on demand.
+[![DOI](https://zenodo.org/badge/1173921951.svg)](https://doi.org/10.5281/zenodo.18882714)
 
 ## Overview
 
