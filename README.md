@@ -61,3 +61,8 @@ Telegram messages in sequence.
 
 **Mohammad Soleimani Roudi**
 [GitHub](https://github.com/Stayuptildawn/geniusmusic_bot)
+
+## Citation
+Please cite this software as:
+
+Mohammad Soleimani Roudi. (2026). Stayuptildawn/geniusmusic_bot: geniusbot-noapi (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18882715
